@@ -1,7 +1,7 @@
 const pizzaArray = [
     {
       id: 1,
-      name: "Pepperoni",
+      name: "kalla",
       price: 2.23,
       imgUrl: "../img/pizza1.png",
     },
